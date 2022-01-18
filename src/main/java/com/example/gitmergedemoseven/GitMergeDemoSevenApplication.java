@@ -13,4 +13,7 @@ public class GitMergeDemoSevenApplication {
     public void hello(){
         System.out.println("hello");
     }
+    public void helloOne(){
+
+    }
 }
