@@ -11,6 +11,6 @@ public class GitMergeDemoSevenApplication {
         System.out.println("111");
     }
     public void hello(){
-
+        System.out.println("hello");
     }
 }
