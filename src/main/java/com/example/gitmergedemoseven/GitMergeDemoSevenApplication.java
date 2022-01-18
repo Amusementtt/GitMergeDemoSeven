@@ -9,5 +9,7 @@ public class GitMergeDemoSevenApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitMergeDemoSevenApplication.class, args);
     }
+    public void hello(){
 
+    }
 }
