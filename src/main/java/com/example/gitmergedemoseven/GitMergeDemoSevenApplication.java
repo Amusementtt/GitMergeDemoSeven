@@ -16,4 +16,7 @@ public class GitMergeDemoSevenApplication {
     public void helloOne(){
 
     }
+    public void helloTwo(){
+
+    }
 }
